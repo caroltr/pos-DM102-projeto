@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{6E79E1E6-99CC-4FF7-920E-7DD6457723D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetoDM102/PessoaFisica.cs">
+    <Files>
+      <File FileName="ProjetoDM102/PessoaFisica.cs" Line="3" Column="2" />
+      <File FileName="ProjetoDM102/PessoaJuridica.cs" Line="6" Column="15" />
+      <File FileName="ProjetoDM102/Atendimento.cs" Line="9" Column="9" />
+      <File FileName="ProjetoDM102/Cliente.cs" Line="26" Column="10" />
+      <File FileName="ProjetoDM102/Program.cs" Line="257" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.ProjetoDM102 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

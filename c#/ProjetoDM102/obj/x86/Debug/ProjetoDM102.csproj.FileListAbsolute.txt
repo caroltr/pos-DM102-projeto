@@ -1,0 +1,5 @@
+/Users/caroltr/Projects/ProjetoDM102/ProjetoDM102/bin/Debug/ProjetoDM102.exe
+/Users/caroltr/Projects/ProjetoDM102/ProjetoDM102/bin/Debug/ProjetoDM102.pdb
+/Users/caroltr/Projects/ProjetoDM102/ProjetoDM102/obj/x86/Debug/ProjetoDM102.csproj.CoreCompileInputs.cache
+/Users/caroltr/Projects/ProjetoDM102/ProjetoDM102/obj/x86/Debug/ProjetoDM102.exe
+/Users/caroltr/Projects/ProjetoDM102/ProjetoDM102/obj/x86/Debug/ProjetoDM102.pdb
