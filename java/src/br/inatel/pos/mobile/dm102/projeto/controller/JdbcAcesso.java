@@ -10,7 +10,7 @@ public class JdbcAcesso {
 
 	private static final String url = "jdbc:postgresql://localhost:5432/exemplo";
 	private static final String username = "postgres";
-	private static final String password = "162321ctr";
+	private static final String password = "******";
 	
 	static {
 		try {
